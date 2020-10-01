@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## This project is my introduction project into react.
-A todo web application. Here are some of the images.
+A todo web application. Here are the images of the application.
 
 [Home view](images/home.png).
 [About view](images/about.png).
