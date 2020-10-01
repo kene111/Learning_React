@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
+## This project is my introduction project into react.
+A todo web application. Here are some of the images.
+
+[Home view](images/home.png).
+[About view](images/about.png).
+
+
 ## Available Scripts
 
 In the project directory, you can run:
